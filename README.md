@@ -17,7 +17,7 @@
 
 -> First of all stored all the DOM elements in a respectives JS variable.
 
--> Used Audio file (ting.mp3) which gives notification on receiving the messages.
+-> Used Audio file (ding.mp3) which gives notification on receiving the messages.
 
 -> Everytime a new user tries to join, first of all ask his/her name and let the server know.
 
